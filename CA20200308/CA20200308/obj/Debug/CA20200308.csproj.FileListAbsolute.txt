@@ -1,0 +1,6 @@
+C:\Users\Tökmindegy\source\repos\CA20200308\CA20200308\obj\Debug\CA20200308.csprojAssemblyReference.cache
+C:\Users\Tökmindegy\source\repos\CA20200308\CA20200308\bin\Debug\CA20200308.exe.config
+C:\Users\Tökmindegy\source\repos\CA20200308\CA20200308\bin\Debug\CA20200308.exe
+C:\Users\Tökmindegy\source\repos\CA20200308\CA20200308\bin\Debug\CA20200308.pdb
+C:\Users\Tökmindegy\source\repos\CA20200308\CA20200308\obj\Debug\CA20200308.exe
+C:\Users\Tökmindegy\source\repos\CA20200308\CA20200308\obj\Debug\CA20200308.pdb
